@@ -1,0 +1,123 @@
+body {
+	background: url(../images/bg-rock.jpg) repeat;
+	color: #736e5f;
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	margin: 0;
+	min-width: 940px;
+	padding: 0;
+}
+a {
+	outline: none;
+}
+
+p {
+	line-height: 24px;
+	margin: 0;
+}
+
+
+#body div#content div#services div.section div span a {
+	color: #736e5f;
+}
+
+
+#body div#featured h3 {
+	color: #8e7835;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 26px;
+	font-weight: normal;
+	letter-spacing: 0.05em;
+	line-height: 48px;
+	padding: 42px 0;
+	margin: 0;
+}
+#body div#content {
+	background: url(../images/bg-pattern.jpg) repeat;
+	border-bottom: 2px solid #000000;
+	border-top: 2px solid #000000;
+	padding: 20px 0 38px;
+	width: 100%;
+}
+#body div#content div#blog {
+	margin: 0 auto;
+	overflow: hidden;
+	width: 940px;
+}
+
+
+#body div#content div#blog div#article span {
+	color: #3d3c3a;
+	display: block;
+	font-size: 12px;
+	letter-spacing: 0.025em;
+	line-height: 24px;
+}
+
+
+#body div#content div#blog {
+	padding: 60px 0 0;
+}
+
+#body div#content div#blog div#article img {
+	display: block;
+	margin: 15px 0;
+}
+
+#body div#content div#blog div.section ul li h2,
+#body div#content div#blog div.sidebar div h3,
+#body div#content div#blog div#article h2 {
+	color: #736e5f;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: normal;
+	letter-spacing: 0.025em;
+	line-height: 24px;
+	margin: 0;
+}
+#body div#content div#blog div.sidebar {
+	float: right;
+	margin: 0 10px 0 0;
+	width: 220px;
+}
+#body div#content div#blog div.sidebar div {
+	background: #1a1918;
+	border-radius: 3px;
+	padding: 15px 15px;
+	margin: 41px 0 0;
+}
+#body div#content div#blog div.sidebar div:first-child {
+	margin: 0;
+}
+#body div#content div#blog div.sidebar div h3 {
+	font-size: 14px;
+	text-transform: uppercase;
+}
+#body div#content div#blog div.sidebar div ul {
+	list-style: disc inside;
+	margin: 0;
+	padding: 0;
+}
+#body div#content div#blog div.sidebar div ul li {
+	line-height: 24px;
+}
+#body div#content div#blog div.sidebar div ul li a {
+	color: #736e5f;
+	letter-spacing: 0.025em;
+	text-decoration: none;
+}
+#body div#content div#blog div.sidebar div ul li a:hover {
+	text-decoration: underline;
+}
+#body div#content div#blog div#article {
+	background: #1a1918;
+	border-radius: 3px;
+	float: left;
+	margin: 0 0 0 10px;
+	padding: 20px;
+	width: 640px;
+}
+#body div#content div#blog div#article p {
+	letter-spacing: 0.05em;
+	text-align: justify;
+}

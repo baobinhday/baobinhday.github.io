@@ -1,0 +1,212 @@
+@charset "utf-8";
+/* CSS Document */
+
+#content {
+	clear:both;
+	width:100%;
+	height:auto;
+	margin:0 auto;
+	padding:0;
+}
+
+#content div#content_shop {
+	background:url(../images/bg-rock.jpg) repeat;
+	width:100%;
+	height:470px;
+	margin:0 auto;
+	padding:0;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+
+#content div#content_shop div#content_shop_1 {
+	width: 960px;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	color: #FFF;
+}
+
+#content div#content_shop div#content_shop_1 div#description {
+	width:320px;
+	height:auto;
+	margin:0;
+	padding:0;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+
+#content div#content_shop div#content_shop_1 div#description ul {
+	list-style:none;
+}
+
+#content div#content_shop div#content_shop_1 div#description ul li {
+	padding: 5px 20px;
+}
+
+#content div#content_shop div#content_shop_1 div#description ul li#home_first {
+	text-align:center;
+	color:#8e7835;
+	padding: 70px 10px 10px;
+}
+
+#content div#content_shop div#content_shop_1 div#description ul li#home_second {
+	text-align:justify;
+	color:#9D9A8F;
+	font-size:14px;
+}
+
+#content div#content_shop div#content_shop_1 div#description ul li#home_third {
+	text-align:center;
+}
+
+#content div#content_shop div#content_shop_1 div#description ul li#home_third a{
+	background:#736e5f;
+	color:#ffffff;
+	border-radius:3px;
+	padding: 5px 10px;
+	text-decoration: none;
+}
+
+#content div#content_shop div#content_shop_1 div#description ul li#home_third a:hover {
+	background: #857c61;
+}
+
+#content div#content_shop div#content_shop_1 div#image_des {
+	width:320px;
+	height:auto;
+	float:left;
+}
+
+#content div#content_shop div#content_shop_1 div#image_des a img {
+	width:75%;
+	height:75%;
+	padding:40px 30px;
+}
+
+#content div#content_shop div#content_shop_1 div#list_des {
+	width:300px;
+	height:auto;
+	margin:0 auto;
+	float:left;
+}
+
+#content div#content_shop div#content_shop_1 div#list_des h3 {
+	text-align:center;
+	color:#8e7835;
+}
+
+#content div#content_shop div#content_shop_1 div#list_des p {	
+	color:#9D9A8F;
+}
+
+#content div#content_shop div#content_shop_1 div#list_des ul {
+	list-style:none;
+	text-align:center;
+	padding-left:0px;
+}
+
+#content div#content_shop div#content_shop_1 a:hover {
+	opacity:0.9;
+}
+
+#content div#content_services {
+	clear:both;
+	background:url(../images/bg-pattern.jpg) repeat;
+	width:100%;
+	height:450px;
+	margin:0 auto;
+	font-family:Georgia, "Times New Roman", Times, serif;	
+}
+
+#content div#content_services div#content_services_1 {
+	width:960px;
+	height:auto;
+	margin:0 auto;
+	padding:0;
+}
+
+#content div#content_services div#content_services_1 div#about_services {
+	float:left;
+	width:600px;
+	height:auto;	
+}
+
+#content div#content_services div#content_services_1 div#about_services h4, #content div#content_services div#content_services_1 div#home_sidebar h4 {
+	color: #c9bb90;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: normal;
+	letter-spacing: 0.025em;
+	line-height: 48px;
+	margin: 0;
+}
+
+#content div#content_services div#content_services_1 div#about_services h1 {
+	color: #8e7835;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 36px;
+	font-weight: normal;
+	letter-spacing: 0.025em;
+	line-height: 48px;
+	margin: 0;
+}
+
+#content div#content_services div#content_services_1 div#about_services ul {
+	list-style:none;
+	padding-left:0px;
+}
+
+#content div#content_services div#content_services_1 div#about_services ul li {
+	display:inline-block;
+	width:170px;
+	color: #c9bb90;
+	padding: 10px 10px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin: 0;
+}
+
+#content div#content_services div#content_services_1 div#home_sidebar {
+	float:right;
+	width:30%;
+	padding:0 0;
+}
+
+#content div#content_services div#content_services_1 div#home_sidebar ul {
+	list-style:none;
+	margin:0 auto;
+	padding:20px 0 0;
+}
+
+#content div#content_services div#content_services_1 div#home_sidebar ul li {
+	display:block;
+	background:#1a1918;
+	border-radius:5px;
+	color:#B0A072;
+	margin:10px 0px;
+	padding: 10px 10px;
+}
+
+#content div#content_services div#content_services_1 div#home_sidebar ul li span {
+	color:#8D805B;
+	font-size:12px;
+}
+
+#content div#content_services div#content_services_1 div#home_sidebar ul li h3 {
+	text-align:center;
+	margin:3px auto;
+}
+
+#content div#content_services div#content_services_1 div#home_sidebar ul li p {
+	font-size:13px;
+	margin:3px auto;
+}
+
+#content div#content_services div#content_services_1 div#home_sidebar ul li a {
+	text-decoration:none;
+	font-family:"MS Serif", "New York", serif;
+	color:#D8D0B8;
+	padding-left:200px;
+	font-size:14px;
+	font-style:italic;
+}

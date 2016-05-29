@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	background: url(../images/bg-rock.jpg) repeat;
+	color: #736e5f;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	margin: 0 auto;
+	width:100%;
+	padding: 0;
+}
+
+#box {
+	width:940px;
+	height:800px;
+	margin:0 auto;
+}
+
+#box1 {
+	float:left;
+	width:920px;
+	height:auto;
+	padding-left:10px;
+	padding-right:20px;
+	
+}
+
+#box1 p {
+	text-align:justify;
+	padding-bottom:30px;
+}
+#box1 img {
+	padding-left:20px;
+}
+#box1 h2 {
+	color: #8e7835;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 36px;
+	font-weight: normal;
+	letter-spacing: 0.025em;
+	line-height: 48px;
+	margin: 0;
+	padding-top:20px;
+	padding-bottom:20px;
+	
+}
+#box1 h4 {
+	color: #8e7835;
+	padding-top:20px;
+	padding-bottom:20px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 0;
+}
+#box1 h3 {
+	color:#928632;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}

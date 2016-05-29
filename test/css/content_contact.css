@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+#body div#content {
+	background:url(../images/bg-pattern.jpg) repeat;
+	border-bottom: 2px solid #000000;
+	border-top: 2px solid #000000;
+	padding:20px 0 38px;
+	width: 100%;
+}
+
+#body {
+	background:url(../images/bg-rock.jpg) repeat;
+}
+
+#body div#featured {
+	
+	margin: 0 auto;
+	padding: 10px 10px 0;
+}
+
+#body div#featured h3{
+	color:#8e7835;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:55px;
+	font-weight:normal;
+	letter-spacing:0.05em;
+	margin:0;
+	padding:47px 0;
+	text-align:center;
+}
+
+#body div#content div#contact {
+	margin:0 auto;
+	padding:5px 10px 0;
+	width:920px;
+}
+
+#body div#content div#contact div {
+	background:url(../images/bg-border.png) repeat-y center top;
+	overflow:hidden;
+	margin:15px 0 0;
+}
+
+#body div#content div#contact div div {
+	background:none;
+	float:left;
+	margin:0;
+	
+}
+
+#body div#content div#contact div h3 {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:16px;
+	font-weight:normal;
+	letter-spacing:0.05em;
+	line-height:30px;
+	margin:0;
+	padding:15px 0 0;
+	text-transform:uppercase;
+	color:#736e5f;
+}
+
+#body div#content div#contact div div p {
+	color:#736e5f;
+	letter-spacing:0.05em;
+	line-height:24px;
+}
+
+#body div#content div#contact div div p a.email {
+	color:#736e5f;
+	text-decoration:none;
+}
+
+#body div#content div#contact div form {
+	float: right;
+	width:512px;
+	margin-left:65px;
+	margin-top:15px;
+}
+
+#body div#content div#contact div form h3 {
+	padding: 0;
+	margin: 0;
+}
+#body div#content div#contact div form label {
+	display: block;
+	overflow: hidden;
+	margin: 10px 0 0;
+}
+#body div#content div#contact div form label span {
+	display: block;
+	float: left;
+	line-height: 30px;
+	text-align: right;
+	width: 110px;
+	color:#736e5f;
+}
+
+
+
+#body div#content div#contact div form label input#hoten,
+#body div#content div#contact div form label input#email {
+	border: none;
+	border-radius: 3px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	float: right;
+	letter-spacing: 0.05em;
+	padding: 0;
+	height: 30px;
+	line-height: 30px;
+	width: 390px;
+}
+
+#body div#content div#contact div form label textarea {
+	border: none;
+	border-radius: 3px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	float: right;
+	height: 250px;
+	letter-spacing: 0.05em;
+	padding: 0;
+	width: 390px;
+}
+#body div#content div#contact div form input#submit {
+	background: #2f2d2b;
+	border: none;
+	border-radius: 3px;
+	color: #ffffff;
+	font-size: 14px;
+	letter-spacing: 0.075em;
+	margin: 10px 0 0 120px;
+	padding: 5px;
+	text-align: center;
+}
